@@ -1,0 +1,15 @@
+Iframe: iframe es un documento HTML que está incrustado dentro de otro en un sitio Web. Es decir, puedes usar iframe para insertar cierto contenido de otra fuente en una página web.
+Recuperado 22 abril, 2019, de https://knowledge.hubspot.com/es/articles/kcs_article/cos-general/what-is-an-iframe
+
+XSS attack: Cross-site Scriptings es una técnica de ataque en Internet en la que el código malicioso se ejecuta tanto en el lado del servidor como en el del cliente, con el fin de robar datos sensibles o identidades digitales.
+Recuperado 22 abril, 2019, de https://es.ryte.com/wiki/Cross_Site_Scripting
+
+self-host: auto gestionar la aplicación de forma local en la red.
+
+Seclist: es el compañero del probador de seguridad. Es una colección de múltiples tipos de listas utilizadas durante las evaluaciones de seguridad, recopiladas en un solo lugar. Los tipos de lista incluyen nombres de usuario, contraseñas, URL, patrones de datos confidenciales, cargas útiles de fuzzing, shells web y muchos más.
+
+Master Key: Una clave maestra es una clave criptográfica utilizada solo para la protección de otras claves. 
+Recuperado 22 abril, 2019, de https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-5906-5_86
+
+mac key : Mandatory Acces Control, se basa en políticas. Existen un conjunto de reglas de autorización (políticas) las cuales determinan si una operación sobre un objeto realizada por un sujeto esta o no permitida basándose en los atributos de ambos. En este caso, el Mandatory refleja el hecho de que las políticas están centralizadas y no pueden ser sobrescritas por un sujeto. 
+Recuperado 22 abril, 2019, de https://www.securityartwork.es/2010/03/12/sistemas-de-control-de-acceso-mac-y-dac/
