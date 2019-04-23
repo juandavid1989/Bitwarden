@@ -1,0 +1,10 @@
+IFRAMES:es un documento HTML que está incrustado dentro de otro en un sitio Web. Es decir, puedes usar iframe para insertar cierto contenido de otra fuente en una página web.
+AUTOFILL: sistema de autocompletado,
+LISTAS BLANCAS: son el listado guardado que se incorporan para la autorizacion  automatica de codigo, correos los cuales son confiables.
+CONTRASEÑA MAESTRA: es la contraseña qwue se da para administrar un grupo de contraseñas guardadas.
+ATAQUE DE FUERZA BRUTA EN LINEA:forma de recuperar una clave probando todas las combinaciones posibles hasta encontrar aquella que permite el acceso. La fuerza bruta suele combinarse con un ataque de diccionario, en el que se encuentran diferentes palabras para ir probando con ellas.
+PRUEBAS DE CAJAS BLANCAS: tipo de pruebas de software que se realiza sobre las funciones internas de un módulo. 
+SERVIDOR BACK-END:es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione. Se trata del conjunto de acciones que pasan en una web pero que no vemos como, por ejemplo, la comunicación con el servidor.
+API:Una API es un conjunto de funciones y procedimientos que cumplen una o muchas funciones con el fin de ser utilizadas por otro software. Las siglas API vienen del inglés Application Programming Interface. En español sería Interfaz de Programación de Aplicaciones.
+EJECUCION REMOTA DE XSS: Es inyectar codigo desde una fuente remota.
+RONDA PBKDF2: PBKDF2 es una “contraseña de fortalecimiento algoritmo” que hace que sea difícil para un equipo para comprobar que cualquier contraseña es la contraseña maestra correcta durante un ataque de fuerza bruta.La implementación estándar de PBKDF2 utiliza SHA-1, un algoritmo de hash seguro. SHA-1 es rápido, pero su velocidad es una debilidad en que los ataques de fuerza bruta se puede realizar más rápido.
